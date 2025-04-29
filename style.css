@@ -84,7 +84,7 @@ nav a:hover::before {
 	text-align: center;
 	padding-top: 150px;
 	position: relative;
-	background: url(/assets/nike.png);
+	background: url(./assets/nike.png);
 	background-size: auto;
 	background-position: center;
 	background-repeat: no-repeat;
